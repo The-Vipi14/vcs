@@ -8,4 +8,8 @@ function forThirdBranch(){
     console.log("Message from third branch");
 }
 
+function forFourthBranch(){
+    console.log("Message from third branch");
+}
+
 
