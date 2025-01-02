@@ -1,4 +1,4 @@
-const name2 = "vipin"
+const name2 = "The vipin"
 const newUser = "Om"
 function getName(){
     console.log(`Your name is the ${name2}`)
